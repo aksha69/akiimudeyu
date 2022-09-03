@@ -12,6 +12,9 @@ public class Test2 {
 		System.out.println(num1);
 		System.out.println(num2);
 		System.out.println(addition);
+		
+		System.out.println("hbfubfdfiuvifudvnifdnvifdnv");
+		
 	}
 
 }
